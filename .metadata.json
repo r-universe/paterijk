@@ -1,0 +1,10 @@
+[
+  {
+    "package": "MCDA",
+    "oncran": true
+  },
+  {
+    "package": "RXMCDA",
+    "oncran": true
+  }
+]
